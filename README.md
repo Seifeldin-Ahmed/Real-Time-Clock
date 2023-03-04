@@ -1,5 +1,6 @@
 # Real-Time-Clock
 MicroController: AVR atmega 32 
+
 Drivers: DIO, LCD, KEYPAD, TIMERS, 7-SEGMEN
 
 Display Time: 
