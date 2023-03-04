@@ -1,7 +1,7 @@
 # Real-Time-Clock
 MicroController: AVR atmega 32 
 
-Drivers: DIO, LCD, KEYPAD, TIMERS, 7-SEGMEN
+Drivers: DIO, LCD, KEYPAD, TIMERS, 7-SEGMENT
 
 Display Time: 
 ![c1](https://user-images.githubusercontent.com/120275931/222929989-593e88fc-e255-4c40-a3cb-34cea8335f66.png)
@@ -17,5 +17,5 @@ Setting Minutes
 Setting Seconds
 ![c4](https://user-images.githubusercontent.com/120275931/222929993-c66a3dc4-5c56-4e5c-a708-775c8ea677e3.png)
 
-
+The Clock Has been Set
 ![c5](https://user-images.githubusercontent.com/120275931/222929996-f52307cb-b852-4052-bdb8-9cf175a06c97.png)
