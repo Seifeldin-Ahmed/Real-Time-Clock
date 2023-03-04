@@ -1,0 +1,9 @@
+MCAL/GPT_TIMERS/GPT_prg.d MCAL/GPT_TIMERS/GPT_prg.o: \
+ ../MCAL/GPT_TIMERS/GPT_prg.c ../MCAL/GPT_TIMERS/../../LIB/STD_Types.h \
+ ../MCAL/GPT_TIMERS/GPT_int.h ../MCAL/GPT_TIMERS/GPT_prv.h
+
+../MCAL/GPT_TIMERS/../../LIB/STD_Types.h:
+
+../MCAL/GPT_TIMERS/GPT_int.h:
+
+../MCAL/GPT_TIMERS/GPT_prv.h:
